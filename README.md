@@ -1,4 +1,4 @@
-# Olá, meu nome é {Thayson Guedes}!
+<h1 align=center>Olá, meu nome é Thayson Guedes!</h1>
 
 <div align=center>
   <img align='center' src="https://img.shields.io/static/v1?label=Overview&message=Thayson Guedes&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
