@@ -1,7 +1,3 @@
-<h1 align=center>Olá, meu nome é Thayson Guedes!</h1>
-
-<img align="center" src="https://img.shields.io/static/v1?label=Overview&message=Thayson Guedes&theme=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
-
 <hr style="background-color: #a7a7a7">
 
 <div align="center">
